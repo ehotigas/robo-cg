@@ -13,7 +13,7 @@ typedef struct BMPImagem {
 
 GLuint texture_id[MAX_NO_TEXTURES];
 
-char *files[MAX_NO_TEXTURES] = {"./text.bmp"};
+char *files[MAX_NO_TEXTURES] = {"./surface2.bmp"};
 
 GLUquadricObj *obj;
 
